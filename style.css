@@ -1,0 +1,24 @@
+#pole{
+    width: 640px;
+    height: 640px;
+    border: 4px solid black;
+}
+
+.block{
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.black{
+    background: black;
+}
+
+.position{
+    background: green;
+}
+
+
+.blue{
+    background: blue;
+}
